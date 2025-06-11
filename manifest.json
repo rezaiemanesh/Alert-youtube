@@ -3,7 +3,7 @@
   "name": "YouTube Live Alert Pro",
   "version": "1.0",
   "description": "Get notified when any YouTube channel goes live during your preferred hours.",
-  "author": "Mohammad Ali Rezaeimanesh & ChatGPT :)",
+  "author": "Mohammad Ali Rezaeimanesh & You :)",
   "homepage_url": "mailto:rezaiemanesh@chmail.ir",
   "permissions": ["notifications", "storage", "alarms", "tabs"],
   "background": {
