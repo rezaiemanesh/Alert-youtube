@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>YouTube Live Alert Pro</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>YouTube Live Alert</h1>
+
+  <input type="text" id="channelInput" placeholder="Paste channel URL or ID">
+  <button id="addChannelBtn">Add Channel</button>
+
+  <h3>Preferred Notification Hours</h3>
+  <label>Start Hour:</label>
+  <input type="number" id="startHour" min="0" max="23">
+  <label>End Hour:</label>
+  <input type="number" id="endHour" min="0" max="23">
+  <button id="saveTime">Save Schedule</button>
+
+  <h3>Channels List</h3>
+  <ul id="channelList"></ul>
+
+  <button id="testNotification">Test Notification</button>
+
+  <script src="popup.js"></script>
+</body>
+</html>

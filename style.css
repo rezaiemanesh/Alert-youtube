@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  padding: 10px;
+  width: 280px;
+}
+input, button {
+  width: 100%;
+  margin-top: 5px;
+  padding: 5px;
+}
+button {
+  background-color: #cc0000;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+ul { list-style: none; padding: 0; }
+li { font-size: 12px; margin: 5px 0; }
