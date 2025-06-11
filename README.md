@@ -1,3 +1,4 @@
+![icon128](https://github.com/user-attachments/assets/7ba8ac1f-a3cd-4b4e-95b5-e8c02a5d6e93)
 # 🔴 YouTube Live Alert Pro
 
 Minimal, private, and instant — get notified **the moment your favorite YouTube channels go live** directly in your Firefox browser.
@@ -148,7 +149,6 @@ Open-source community
 
 
 
----[alert.zip](https://github.com/user-attachments/files/20696015/alert.zip)
 '''
                                                             🇮🇷 فارسی
 📣 اگر مایلید این افزونه را با کانال‌های ایرانی، ظاهر زیباتر یا ویژگی‌های بیشتر توسعه دهید، با من در تماس باشید. با افتخار از پیشنهادها، ترجمه‌ها یا کمک‌های شما استقبال می‌کنم.
