@@ -67,9 +67,9 @@ Minimal, private, and instant — get notified **the moment your favorite YouTub
 
 
 ---
+## 📁 File Structure
 
-📁 File Structure
-
+```
 YouTube-Live-Alert-Pro/
 ├── manifest.json
 ├── background.js
@@ -81,8 +81,7 @@ YouTube-Live-Alert-Pro/
 │   ├── icon-48.png
 │   └── icon-128.png
 └── README.md
-
-
+```
 ---
 
 🧩 Customization
