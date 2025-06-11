@@ -1,34 +1,38 @@
 # 🔴 YouTube Live Alert Pro
 
-A minimalist Firefox extension that notifies you instantly when your favorite YouTube channels go live — directly in your browser.
+Minimal, private, and instant — get notified **the moment your favorite YouTube channels go live** directly in your Firefox browser.
+
+[![Get it on Firefox](https://img.shields.io/amo/v/youtube-live-alert-pro?label=Install%20on%20Firefox&logo=firefox&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/youtube-live-alert-pro/)
 
 ---
 
-## 🦊 Get it on Firefox
+## 📌 Overview
 
-[![Download on Firefox Add-ons](https://img.shields.io/amo/v/youtube-live-alert-pro?label=Install%20on%20Firefox&logo=firefox&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/youtube-live-alert-pro/)
-
----
-
-## ✨ Features
-
-- 🔔 Instant live alerts from your selected YouTube channels
-- ⚡ Lightweight, fast, and memory-friendly
-- 🕶️ Runs in the background silently
-- 🌐 Support for international channels
-- 🔐 No login required – 100% privacy-safe
+**YouTube Live Alert Pro** is a lightweight Firefox extension that checks your selected YouTube channels and alerts you the moment they go live. No login. No tracking. Just instant notifications.
 
 ---
 
-## 📦 Installation
+## 🌟 Features
 
-### 🟢 Via Mozilla Add-ons (Recommended)
-1. Go to [Add-on Page](https://addons.mozilla.org/en-US/firefox/addon/youtube-live-alert-pro/)
-2. Click **Add to Firefox**
-3. You're all set! The icon will appear in your browser toolbar
+- 🔔 Real-time live stream alerts
+- ⚡ Ultra-light and memory efficient
+- 🕶️ Silent background operation
+- 🌍 Works with international channels
+- 🔐 Zero tracking — 100% privacy-friendly
 
-### 🔵 Manual Install (Development Mode)
-1. Clone or download this repository:
+---
+
+## 🚀 Installation
+
+### ✅ Install via Firefox Add-ons (Recommended)
+
+1. Visit the [official add-on page](https://addons.mozilla.org/en-US/firefox/addon/youtube-live-alert-pro/)
+2. Click **“Add to Firefox”**
+3. Done! The extension icon will appear in your toolbar
+
+### 🔧 Manual Install (For Development)
+
+1. Clone this repository:
    ```bash
    git clone https://github.com/rezaiemanesh/YouTube-Live-Alert-Pro.git
 
@@ -45,9 +49,21 @@ A minimalist Firefox extension that notifies you instantly when your favorite Yo
 
 ---
 
-⚙️ How It Works
+🛠️ How It Works
 
-This extension periodically checks live status for your defined YouTube channels. When a channel goes live, you'll receive a desktop notification instantly. It's ideal for stream fans and creators who don't want to miss a moment.
+1. Add YouTube channels by ID or full URL from the extension popup
+
+
+2. The extension periodically checks their live status
+
+
+3. If a live stream is detected, you'll receive a desktop notification
+
+
+
+> 🔄 By default, the check runs every 60 seconds (customizable in the future)
+
+
 
 
 ---
@@ -56,73 +72,85 @@ This extension periodically checks live status for your defined YouTube channels
 
 YouTube-Live-Alert-Pro/
 ├── manifest.json
-├── icons/
-│   ├── icon-16.png
-│   ├── icon-48.png
-│   └── icon-128.png
 ├── background.js
 ├── popup.html
 ├── popup.js
 ├── style.css
+├── icons/
+│   ├── icon-16.png
+│   ├── icon-48.png
+│   └── icon-128.png
 └── README.md
 
 
 ---
 
-💡 Customization
+🧩 Customization
 
-To add your favorite channels:
+To add your favorite YouTube channels:
 
-Go to the extension popup
+1. Click the extension icon
 
-Enter the channel ID (or URL)
 
-Save and enjoy live alerts
+2. Paste the channel ID or full URL
+
+
+3. Click Save
+
+
+4. That’s it! You’ll be alerted when that channel goes live
+
 
 
 
 ---
 
-🤝 Contribution
+🤝 Contributing
 
-Contributions are welcome! Please:
+We welcome pull requests! Here's how to contribute:
 
-1. Fork this repo
-
-
-2. Make your changes
+1. Fork the repository
 
 
-3. Submit a pull request
+2. Create a new branch (git checkout -b feature/my-feature)
+
+
+3. Commit your changes
+
+
+4. Push to your fork and submit a pull request
 
 
 
-📩 For feature requests or bugs, contact:
-rezaiemanesh@chmail.ir
+
+---
+
+📬 Contact
+
+For bugs, feature requests, or feedback: 📧 rezaiemanesh@chmail.ir
 
 
 ---
 
 📄 License
 
-This extension is licensed under the MIT License.
-See LICENSE for full terms.
+This project is licensed under the Apache License 2.0.
 
 
 ---
 
 🙏 Credits
 
-Thanks to:
+Mozilla Developer Network
 
-Mozilla community
+YouTube Data API
 
-YouTube API developers
+Open-source community
 
-Everyone who believes in free access to open technologies
 
 
 ---
 
-آیا مایلید من فایل‌های `manifest.json`، `background.js`، `popup.html`، و آیکون‌های مناسب را هم برای این افزونه به‌صورت کامل و آماده بارگذاری طراحی کنم؟ فقط کافی است بگویید!
+🇮🇷 فارسی
 
+📣 اگر مایلید این افزونه را با کانال‌های ایرانی، ظاهر زیباتر یا ویژگی‌های بیشتر توسعه دهید، با من در تماس باشید. با افتخار از پیشنهادها، ترجمه‌ها یا کمک‌های شما استقبال می‌کنم.
